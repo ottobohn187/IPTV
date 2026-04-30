@@ -1,0 +1,117 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+#EXTINF:-1 tvg-chno="2" tvg-id="KGTV.us" tvg-name="ABC KGTV 10 San Diego" group-title="San Diego Locals",2 ABC KGTV 10 San Diego
+https://www.10news.com/live
+#EXTINF:-1 tvg-chno="3" tvg-id="KFMB.us" tvg-name="CBS KFMB 8 San Diego" group-title="San Diego Locals",3 CBS KFMB 8 San Diego
+https://www.cbs8.com/watch
+#EXTINF:-1 tvg-chno="4" tvg-id="KNSD.us" tvg-name="NBC KNSD 39 San Diego" group-title="San Diego Locals",4 NBC KNSD 39 San Diego
+https://www.nbcsandiego.com/watch/
+#EXTINF:-1 tvg-chno="5" tvg-id="KSWB.us" tvg-name="FOX KSWB 69 San Diego" group-title="San Diego Locals",5 FOX KSWB 69 San Diego
+https://fox5sandiego.com/on-air/live-streaming/
+#EXTINF:-1 tvg-chno="7" tvg-id="KPBS.us" tvg-name="PBS KPBS 15 San Diego" group-title="San Diego Locals",7 PBS KPBS 15 San Diego
+https://www.kpbs.org/watch-live
+#EXTINF:-1 tvg-chno="9" tvg-id="TelemundoSanDiego.us" tvg-name="Telemundo San Diego" group-title="San Diego Locals",9 Telemundo San Diego
+https://www.telemundo20.com/en-vivo/
+#EXTINF:-1 tvg-chno="10" tvg-id="KBNT.us" tvg-name="Univision KBNT 17 San Diego" group-title="San Diego Locals",10 Univision KBNT 17 San Diego
+https://www.univision.com/local/san-diego-kbnt
+#EXTINF:-1 tvg-chno="11" tvg-id="KPXN.us" tvg-name="ION KPXN 30 San Diego" group-title="San Diego Locals",11 ION KPXN 30 San Diego
+https://iontelevision.com/
+#EXTINF:-1 tvg-chno="9001" tvg-id="FoxSports2.us@HD" tvg-name="Fox Sports 2" group-title="Sports",9001 Fox Sports 2
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-chno="9002" tvg-id="GolfChannel.us@SD" tvg-name="Golf Channel" group-title="Sports",9002 Golf Channel
+https://tvpass.org/live/GolfChannel/hd
+#EXTINF:-1 tvg-chno="9003" tvg-id="NBCSportsBayArea.us@SD" tvg-name="NBC Sports Bay Area" group-title="Sports",9003 NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-chno="9004" tvg-id="NBCSportsBoston.us@SD" tvg-name="NBC Sports Boston" group-title="Sports",9004 NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-chno="9005" tvg-id="NBCSportsPhiladelphia.us@SD" tvg-name="NBC Sports Philadelphia" group-title="Sports",9005 NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-chno="9006" tvg-id="NFLRedZone.us@SD" tvg-name="NFL RedZone" group-title="Sports",9006 NFL RedZone
+https://tvpass.org/live/NFLRedZone/hd
+#EXTINF:-1 tvg-chno="9007" tvg-id="MSG.us@SD" tvg-name="MSG" group-title="Sports",9007 MSG
+https://tvpass.org/live/msg-madison-square-gardens/hd
+#EXTINF:-1 tvg-chno="9008" tvg-id="MSGPlus.us@SD" tvg-name="MSG Plus" group-title="Sports",9008 MSG Plus
+https://tvpass.org/live/msg-plus/hd
+#EXTINF:-1 tvg-chno="9009" tvg-id="TSN1.ca@SD" tvg-name="TSN1" group-title="Sports",9009 TSN1
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-chno="9010" tvg-id="TSN2.ca@SD" tvg-name="TSN2" group-title="Sports",9010 TSN2
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-chno="9011" tvg-id="TSN3.ca@SD" tvg-name="TSN3" group-title="Sports",9011 TSN3
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-chno="9012" tvg-id="TSN4.ca@SD" tvg-name="TSN4" group-title="Sports",9012 TSN4
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-chno="9013" tvg-id="TSN5.ca@SD" tvg-name="TSN5" group-title="Sports",9013 TSN5
+https://tvpass.org/live/tsn5/hd
+#EXTINF:-1 tvg-chno="9100" tvg-id="AE.us@East" tvg-name="A&E East" group-title="TVPass Entertainment",9100 A&E East
+https://tvpass.org/live/AEEast/hd
+#EXTINF:-1 tvg-chno="9101" tvg-id="CSPAN2.us@SD" tvg-name="C-SPAN 2" group-title="TVPass News",9101 C-SPAN 2
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-chno="9102" tvg-id="CNBC.us@SD" tvg-name="CNBC" group-title="TVPass News",9102 CNBC
+https://tvpass.org/live/CNBC/hd
+#EXTINF:-1 tvg-chno="9103" tvg-id="CrimePlusInvestigation.us@SD" tvg-name="Crime + Investigation" group-title="TVPass Entertainment",9103 Crime + Investigation
+https://tvpass.org/live/CrimePlusInvestigation/hd
+#EXTINF:-1 tvg-chno="9104" tvg-id="DisneyChannel.us@East" tvg-name="Disney Channel East" group-title="TVPass Kids",9104 Disney Channel East
+https://tvpass.org/live/DisneyChannelEast/hd
+#EXTINF:-1 tvg-chno="9105" tvg-id="DisneyJunior.us@East" tvg-name="Disney Junior East" group-title="TVPass Kids",9105 Disney Junior East
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-chno="9106" tvg-id="DisneyXD.us@East" tvg-name="Disney XD East" group-title="TVPass Kids",9106 Disney XD East
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-chno="9107" tvg-id="E.us@East" tvg-name="E! East" group-title="TVPass Entertainment",9107 E! East
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-chno="9108" tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business Network" group-title="TVPass News",9108 Fox Business Network
+https://tvpass.org/live/FoxBusiness/hd
+#EXTINF:-1 tvg-chno="9109" tvg-id="FoxNewsChannel.us@SD" tvg-name="Fox News Channel" group-title="TVPass News",9109 Fox News Channel
+https://tvpass.org/live/FoxNewsChannel/hd
+#EXTINF:-1 tvg-chno="9110" tvg-id="Fuse.us@East" tvg-name="Fuse East" group-title="TVPass Entertainment",9110 Fuse East
+https://tvpass.org/live/FuseEast/hd
+#EXTINF:-1 tvg-chno="9111" tvg-id="FX.us@East" tvg-name="FX East" group-title="TVPass Entertainment",9111 FX East
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1 tvg-chno="9112" tvg-id="FXMovieChannel.us@SD" tvg-name="FX Movie Channel" group-title="TVPass Movies",9112 FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:-1 tvg-chno="9113" tvg-id="FXX.us@East" tvg-name="FXX East" group-title="TVPass Entertainment",9113 FXX East
+https://tvpass.org/live/FXXEast/hd
+#EXTINF:-1 tvg-chno="9114" tvg-id="FYI.us@East" tvg-name="FYI East" group-title="TVPass Lifestyle",9114 FYI East
+https://tvpass.org/live/FYIEast/hd
+#EXTINF:-1 tvg-chno="9115" tvg-id="HallmarkDrama.us@SD" tvg-name="Hallmark Drama" group-title="TVPass Movies",9115 Hallmark Drama
+https://tvpass.org/live/HallmarkDrama/hd
+#EXTINF:-1 tvg-chno="9116" tvg-id="HallmarkMoviesMysteries.us@East" tvg-name="Hallmark Movies & Mysteries East" group-title="TVPass Movies",9116 Hallmark Movies & Mysteries East
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
+#EXTINF:-1 tvg-chno="9117" tvg-id="IFC.us@East" tvg-name="IFC East" group-title="TVPass Movies",9117 IFC East
+https://tvpass.org/live/IFCEast/hd
+#EXTINF:-1 tvg-chno="9118" tvg-id="KABCTV71.us@HD" tvg-name="KABC-DT1 Los Angeles ABC" group-title="TVPass Local Backup",9118 KABC-DT1 Los Angeles ABC
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 tvg-chno="9119" tvg-id="KCBSTV21.us@HD" tvg-name="KCBS-DT1 Los Angeles CBS" group-title="TVPass Local Backup",9119 KCBS-DT1 Los Angeles CBS
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+#EXTINF:-1 tvg-chno="9120" tvg-id="KNBC41.us@HD" tvg-name="KNBC-DT1 Los Angeles NBC" group-title="TVPass Local Backup",9120 KNBC-DT1 Los Angeles NBC
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 tvg-chno="9121" tvg-id="KTTV111.us@HD" tvg-name="KTTV-DT1 Los Angeles FOX" group-title="TVPass Local Backup",9121 KTTV-DT1 Los Angeles FOX
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+#EXTINF:-1 tvg-chno="9122" tvg-id="LifetimeMovies.us@East" tvg-name="Lifetime Movies East" group-title="TVPass Movies",9122 Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/hd
+#EXTINF:-1 tvg-chno="9123" tvg-id="Logo.us@East" tvg-name="Logo East" group-title="TVPass Entertainment",9123 Logo East
+https://tvpass.org/live/LogoEast/hd
+#EXTINF:-1 tvg-chno="9124" tvg-id="MSNOW.us@SD" tvg-name="MSNBC" group-title="TVPass News",9124 MSNBC
+https://tvpass.org/live/MSNBC/hd
+#EXTINF:-1 tvg-chno="9125" tvg-id="NationalGeographic.us@HDEast" tvg-name="National Geographic HD East" group-title="TVPass Documentary",9125 National Geographic HD East
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-chno="9126" tvg-id="NationalGeographicWild.us@HDEast" tvg-name="National Geographic Wild HD East" group-title="TVPass Documentary",9126 National Geographic Wild HD East
+https://tvpass.org/live/NationalGeographicWildEast/hd
+#EXTINF:-1 tvg-chno="9127" tvg-id="NewsmaxTV.us@SD" tvg-name="Newsmax TV" group-title="TVPass News",9127 Newsmax TV
+https://tvpass.org/live/NewsmaxTV/hd
+#EXTINF:-1 tvg-chno="9128" tvg-id="Starz.us@East" tvg-name="Starz East" group-title="TVPass Premium",9128 Starz East
+https://tvpass.org/live/StarzEast/hd
+#EXTINF:-1 tvg-chno="9129" tvg-id="USANetwork.us@East" tvg-name="USA Network East" group-title="TVPass Entertainment",9129 USA Network East
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-chno="9130" tvg-id="WABCTV71.us@HD" tvg-name="WABC-DT1 New York ABC" group-title="TVPass Local Backup",9130 WABC-DT1 New York ABC
+https://tvpass.org/live/WABCDT1/hd
+#EXTINF:-1 tvg-chno="9131" tvg-id="WCBSTV21.us@HD" tvg-name="WCBS-DT1 New York CBS" group-title="TVPass Local Backup",9131 WCBS-DT1 New York CBS
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-chno="9132" tvg-id="WISDT2.us@SD" tvg-name="WDCW-DT2 Washington DC CW" group-title="TVPass Local Backup",9132 WDCW-DT2 Washington DC CW
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+#EXTINF:-1 tvg-chno="9133" tvg-id="WNBC471.us@HD" tvg-name="WNBC-DT1 New York NBC" group-title="TVPass Local Backup",9133 WNBC-DT1 New York NBC
+https://tvpass.org/live/WNBCDT1/hd
+#EXTINF:-1 tvg-chno="9134" tvg-id="WNET211.us@HD" tvg-name="WNET-DT1 New York PBS" group-title="TVPass Local Backup",9134 WNET-DT1 New York PBS
+https://tvpass.org/live/WNET/hd
+#EXTINF:-1 tvg-chno="9135" tvg-id="WNJU471.us@HD" tvg-name="WNJU-DT1 Telemundo East" group-title="TVPass Local Backup",9135 WNJU-DT1 Telemundo East
+https://tvpass.org/live/TelemundoEast/hd
+#EXTINF:-1 tvg-chno="9136" tvg-id="WNYW51.us@HD" tvg-name="WNYW-DT1 New York FOX" group-title="TVPass Local Backup",9136 WNYW-DT1 New York FOX
+https://tvpass.org/live/WNYWDT1/hd
