@@ -1,0 +1,255 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="WPMTDT1.us" tvg-name="FOX (WPMT) York, PA" tvg-chno="2" group-title="Xfinity Harrisburg PA",2 FOX WPMT 43 York
+https://tvpass.org/live/WPMTDT1/sd
+#EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="CBS (KYW) Philadelphia, PA" tvg-chno="3" group-title="Xfinity Harrisburg PA",3 CBS KYW 3 Philadelphia HD
+https://tvpass.org/live/KYWDT1/sd
+#EXTINF:-1 tvg-id="WHTMDT2.us" tvg-name="MyNetworkTV Harrisburg/York/Lancaster" tvg-chno="4" group-title="Xfinity Harrisburg PA",4 MY My Network 21.2
+https://tvpass.org/live/WHTMDT2/sd
+#EXTINF:-1 tvg-id="WITFDT1.us" tvg-name="PBS (WITF) Harrisburg, PA" tvg-chno="5" group-title="Xfinity Harrisburg PA",5 PBS WITF 33 Harrisburg
+https://tvpass.org/live/WITFDT1/sd
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-name="ABC (WPVI) Philadelphia, PA" tvg-chno="6" group-title="Xfinity Harrisburg PA",6 ABC WPVI 6 Philadelphia HD
+https://tvpass.org/live/WPVIDT1/sd
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="C-SPAN 2" tvg-chno="7" group-title="Xfinity Harrisburg PA",7 C-SPAN 2 HD
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="WLYHDT1.us" tvg-name="Lighthouse TV (WLYH) Lancaster, PA" tvg-chno="8" group-title="Xfinity Harrisburg PA",8 IND Lighthouse TV - WLYH 49 HD
+https://tvpass.org/live/WLYHDT1/sd
+#EXTINF:-1 tvg-id="WHPDT2.us" tvg-name="CW (WHP-DT2) Harrisburg, PA" tvg-chno="9" group-title="Xfinity Harrisburg PA",9 CW WHP 3 Harrisburg
+https://tvpass.org/live/WHPDT2/sd
+#EXTINF:-1 tvg-id="WCAUDT1.us" tvg-name="NBC (WCAU) Philadelphia, PA" tvg-chno="10" group-title="Xfinity Harrisburg PA",10 NBC WCAU 10 Philadelphia HD
+https://tvpass.org/live/WCAUDT1/sd
+#EXTINF:-1 tvg-id="BlueRidge11.us" tvg-name="Blue Ridge 11" tvg-chno="11" group-title="Xfinity Harrisburg PA",11 Blue Ridge 11
+https://www.brctv11.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="WHTMDT1.us" tvg-name="ABC (WHTM) Harrisburg, PA" tvg-chno="12" group-title="Xfinity Harrisburg PA",12 ABC WHTM 27 Harrisburg
+https://tvpass.org/live/WHTMDT1/sd
+#EXTINF:-1 tvg-id="WGALDT1.us" tvg-name="NBC (WGAL) Lancaster, PA" tvg-chno="13" group-title="Xfinity Harrisburg PA",13 NBC WGAL 8 Lancaster
+https://tvpass.org/live/WGALDT1/sd
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-chno="14" group-title="Xfinity Harrisburg PA",14 QVC
+https://tvpass.org/live/QVC/sd
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-chno="15" group-title="Xfinity Harrisburg PA",15 C-SPAN HD
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1 tvg-id="WTXFDT1.us" tvg-name="FOX (WTXF) Philadelphia, PA" tvg-chno="16" group-title="Xfinity Harrisburg PA",16 FOX WTXF 29 Philadelphia
+https://tvpass.org/live/WTXFDT1/sd
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" tvg-chno="17" group-title="Xfinity Harrisburg PA",17 HSN
+https://tvpass.org/live/HSN/sd
+#EXTINF:-1 tvg-id="PCN.us" tvg-name="Pennsylvania Cable Network" tvg-chno="18" group-title="Xfinity Harrisburg PA",18 PCN
+https://pcntv.com/m3u8/live.m3u8
+#EXTINF:-1 tvg-id="WHPDT1.us" tvg-name="CBS (WHP) Harrisburg, PA" tvg-chno="19" group-title="Xfinity Harrisburg PA",19 CBS WHP 21 Harrisburg
+https://tvpass.org/live/WHPDT1/sd
+#EXTINF:-1 tvg-id="WPSGDT1.us" tvg-name="CW (WPSG) Philadelphia, PA" tvg-chno="20" group-title="Xfinity Harrisburg PA",20 CBS WPSG 57 Philadelphia HD
+https://tvpass.org/live/WPSGDT1/sd
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff" tvg-chno="21" group-title="Xfinity Harrisburg PA",21 LAFF
+https://tvpass.org/live/Laff/sd
+#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV" tvg-chno="22" group-title="Xfinity Harrisburg PA",22 MeTV
+https://tvpass.org/live/MeTV/sd
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit" tvg-chno="23" group-title="Xfinity Harrisburg PA",23 Grit TV
+https://tvpass.org/live/Grit/sd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" tvg-chno="2" group-title="Xfinity Choice TV / Limited Basic",2 WMBF/Local NBC substitute
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" tvg-chno="3" group-title="Xfinity Choice TV / Limited Basic",3 WJHG NBC substitute
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" tvg-chno="4" group-title="Xfinity Choice TV / Limited Basic",4 WECP CBS substitute
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" tvg-chno="6" group-title="Xfinity Choice TV / Limited Basic",6 ABC local substitute
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" tvg-chno="8" group-title="Xfinity Choice TV / Limited Basic",8 WPGX FOX substitute
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" tvg-chno="11" group-title="Xfinity Choice TV / Limited Basic",11 WFSU PBS substitute
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" tvg-chno="59" group-title="Xfinity Choice TV / Limited Basic",59 Freeform
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" tvg-chno="106" group-title="Xfinity Choice TV / Limited Basic",106 National Geographic
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" tvg-chno="128" group-title="Xfinity Choice TV / Limited Basic",128 Universal Kids
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" tvg-chno="360" group-title="Xfinity Choice TV / Limited Basic",360 Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" tvg-chno="385" group-title="Xfinity Choice TV / Limited Basic",385 Hallmark Channel HD
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" tvg-chno="413" group-title="Xfinity Choice TV / Limited Basic",413 National Geographic HD
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" tvg-chno="443" group-title="Xfinity Choice TV / Limited Basic",443 Nickelodeon HD
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" tvg-chno="444" group-title="Xfinity Choice TV / Limited Basic",444 Freeform HD
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE TV East" tvg-chno="455" group-title="Xfinity Choice TV / Limited Basic",455 WE TV HD
+https://tvpass.org/live/WeTVEast/sd
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" tvg-chno="477" group-title="Xfinity Choice TV / Limited Basic",477 Hallmark Movies & Mysteries HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" tvg-chno="1129" group-title="Xfinity Choice TV / Limited Basic",1129 C-SPAN 2 HD
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" tvg-chno="1740" group-title="Xfinity Choice TV / Limited Basic",1740 TeenNick HD
+https://tvpass.org/live/TeenNickEast/sd
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV" tvg-chno="13" group-title="Xfinity Entertainment",13 NewsNation
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" tvg-chno="19" group-title="Xfinity Entertainment",19 TV Land
+https://tvpass.org/live/tv-land-eastern/sd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" tvg-chno="21" group-title="Xfinity Entertainment",21 OWN
+https://tvpass.org/live/OWNEast/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" tvg-chno="22" group-title="Xfinity Entertainment",22 Disney Channel
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" tvg-chno="23" group-title="Xfinity Entertainment",23 Hallmark Channel
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-chno="24" group-title="Xfinity Sports & News",24 FOX Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" tvg-chno="27" group-title="Xfinity Sports & News",27 Bally Sports Florida
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" tvg-chno="29" group-title="Xfinity Entertainment",29 TNT
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" tvg-chno="30" group-title="Xfinity Entertainment",30 AMC
+https://tvpass.org/live/AMCEast/sd
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" tvg-chno="31" group-title="Xfinity Entertainment",31 TBS
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" tvg-chno="32" group-title="Xfinity Entertainment",32 HGTV
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" tvg-chno="34" group-title="Xfinity Entertainment",34 A&E
+https://tvpass.org/live/AEEast/sd
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" tvg-chno="35" group-title="Xfinity Entertainment",35 History
+https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel US Eastern Feed" tvg-chno="36" group-title="Xfinity Entertainment",36 Discovery
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" tvg-chno="38" group-title="Xfinity Entertainment",38 Food Network
+https://tvpass.org/live/FoodNetworkEast/sd
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" tvg-chno="39" group-title="Xfinity Sports & News",39 CNN
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" tvg-chno="40" group-title="Xfinity Sports & News",40 HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" tvg-chno="41" group-title="Xfinity Sports & News",41 The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" tvg-chno="42" group-title="Xfinity Sports & News",42 FOX News Channel
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" tvg-chno="44" group-title="Xfinity Sports & News",44 CNBC
+https://tvpass.org/live/CNBC/sd
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" tvg-chno="46" group-title="Xfinity Entertainment",46 Animal Planet
+https://tvpass.org/live/AnimalPlanetEast/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-chno="47" group-title="Xfinity Sports & News",47 ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" tvg-chno="48" group-title="Xfinity Sports & News",48 Golf Channel
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" tvg-chno="49" group-title="Xfinity Sports & News",49 Bally Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/sd
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" tvg-chno="50" group-title="Xfinity Entertainment",50 MTV
+https://tvpass.org/live/MTVEast/sd
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" tvg-chno="51" group-title="Xfinity Entertainment",51 VH1
+https://tvpass.org/live/VH1East/sd
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" tvg-chno="53" group-title="Xfinity Entertainment",53 BET
+https://tvpass.org/live/BETEast/sd
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" tvg-chno="54" group-title="Xfinity Entertainment",54 Bravo
+https://tvpass.org/live/BravoEast/sd
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" tvg-chno="56" group-title="Xfinity Entertainment",56 Lifetime
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" tvg-chno="62" group-title="Xfinity Entertainment",62 USA Network
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central US Eastern Feed" tvg-chno="64" group-title="Xfinity Entertainment",64 Comedy Central
+https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" tvg-chno="65" group-title="Xfinity Entertainment",65 Travel Channel
+https://tvpass.org/live/TravelChannelEast/sd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" tvg-chno="70" group-title="Xfinity Entertainment",70 Syfy
+https://tvpass.org/live/SyfyEast/sd
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed" tvg-chno="96" group-title="Xfinity Entertainment",96 Univision
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" tvg-chno="103" group-title="Xfinity Sports & News",103 Bloomberg TV
+https://tvpass.org/live/BloombergTV/sd
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" tvg-chno="104" group-title="Xfinity Sports & News",104 C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" tvg-chno="105" group-title="Xfinity Sports & News",105 C-SPAN 3
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" tvg-chno="106" group-title="Xfinity Sports & News",106 Fox Business Network
+https://tvpass.org/live/FoxBusiness/sd
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" tvg-chno="111" group-title="Xfinity Entertainment",111 Investigation Discovery
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" tvg-chno="114" group-title="Xfinity Entertainment",114 BBC America
+https://tvpass.org/live/BBCAmericaEast/sd
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE TV East" tvg-chno="117" group-title="Xfinity Entertainment",117 WE tv
+https://tvpass.org/live/WeTVEast/sd
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" tvg-chno="119" group-title="Xfinity Entertainment",119 LMN
+https://tvpass.org/live/LifetimeMoviesEast/sd
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" tvg-chno="123" group-title="Xfinity Entertainment",123 Oxygen
+https://tvpass.org/live/OxygenEast/sd
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" tvg-chno="173" group-title="Xfinity Entertainment",173 TV One
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East" tvg-chno="179" group-title="Xfinity Entertainment",179 GSN
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA" tvg-chno="185" group-title="Xfinity Sports & News",185 MSNBC
+https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Paramount with Showtime Eastern Feed" tvg-chno="28" group-title="Xfinity Ultimate TV",28 Paramount Network
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" tvg-chno="99" group-title="Xfinity Ultimate Sports",99 NBA TV
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="science" tvg-name="Science" tvg-chno="112" group-title="Xfinity Ultimate TV",112 Science
+https://tvpass.org/live/Science/sd
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" tvg-chno="115" group-title="Xfinity Ultimate TV",115 FYI
+https://tvpass.org/live/FYIEast/sd
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE" tvg-chno="116" group-title="Xfinity Ultimate TV",116 VICE
+https://tvpass.org/live/VICETV/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" tvg-chno="124" group-title="Xfinity Ultimate TV",124 Cartoon Network
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" tvg-chno="129" group-title="Xfinity Ultimate TV",129 Nicktoons
+https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" tvg-chno="130" group-title="Xfinity Ultimate TV",130 Discovery Family
+https://tvpass.org/live/DiscoveryFamily/sd
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" tvg-chno="131" group-title="Xfinity Ultimate TV",131 Nick Jr.
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" tvg-chno="132" group-title="Xfinity Ultimate TV",132 Nick 2
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" tvg-chno="133" group-title="Xfinity Ultimate TV",133 TeenNick
+https://tvpass.org/live/TeenNickEast/sd
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" tvg-chno="135" group-title="Xfinity Ultimate TV",135 Disney XD
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" tvg-chno="136" group-title="Xfinity Ultimate TV",136 Disney Junior
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" tvg-chno="146" group-title="Xfinity Ultimate TV",146 CMT Music
+https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" tvg-chno="162" group-title="Xfinity More Sports & Entertainment",162 FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" tvg-chno="164" group-title="Xfinity More Sports & Entertainment",164 IFC
+https://tvpass.org/live/IFCEast/sd
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" tvg-chno="169" group-title="Xfinity More Sports & Entertainment",169 MTV2
+https://tvpass.org/live/mtv-2-east/sd
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" tvg-chno="171" group-title="Xfinity More Sports & Entertainment",171 BBC World News
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" tvg-chno="174" group-title="Xfinity More Sports & Entertainment",174 BET Her
+https://tvpass.org/live/BETHerEast/sd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-chno="180" group-title="Xfinity More Sports & Entertainment",180 NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" tvg-chno="182" group-title="Xfinity More Sports & Entertainment",182 Discovery Life
+https://tvpass.org/live/DiscoveryLife/sd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" tvg-chno="237" group-title="Xfinity Ultimate Sports",237 MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel US Eastern Feed" tvg-chno="248" group-title="Xfinity Ultimate TV",248 Discovery East
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-chno="271" group-title="Xfinity Ultimate TV",271 NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" tvg-chno="273" group-title="Xfinity Ultimate Sports",273 NBA TV
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" tvg-chno="279" group-title="Xfinity Ultimate Sports",279 MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" tvg-chno="389" group-title="Xfinity Ultimate TV",389 Nat Geo WILD HD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" tvg-chno="393" group-title="Xfinity Ultimate Sports",393 CBS Sports Network HD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" tvg-chno="406" group-title="Xfinity Ultimate Sports",406 NFL Network HD
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" tvg-chno="442" group-title="Xfinity Ultimate TV",442 Cartoon Network HD
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" tvg-chno="449" group-title="Xfinity Ultimate Sports",449 ESPNews HD
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Paramount with Showtime Eastern Feed" tvg-chno="452" group-title="Xfinity Ultimate TV",452 Paramount Network HD
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" tvg-chno="302" group-title="Xfinity Premium",302 HBO East
+https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" tvg-chno="303" group-title="Xfinity Premium",303 HBO2 East
+https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature Eastern" tvg-chno="304" group-title="Xfinity Premium",304 HBO Signature East
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" tvg-chno="305" group-title="Xfinity Premium",305 HBO Family East
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" tvg-chno="306" group-title="Xfinity Premium",306 HBO Comedy East
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" tvg-chno="311" group-title="Xfinity Premium",311 HBO Zone East
+https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" tvg-chno="340" group-title="Xfinity Premium",340 Showtime East
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" tvg-chno="341" group-title="Xfinity Premium",341 Showtime 2 East
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" tvg-chno="370" group-title="Xfinity Premium",370 Starz East
+https://tvpass.org/live/StarzEast/sd
