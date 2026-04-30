@@ -1,4 +1,40 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+# --- TVPASS SPORTS CHANNELS ADDED ---
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-chno="9001" group-title="TVPass Sports",9001 ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-chno="9004" group-title="TVPass Sports",9004 ESPNU
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-chno="9006" group-title="TVPass Sports",9006 FS2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-chno="9010" group-title="TVPass Sports",9010 NHL Network
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-chno="9013" group-title="TVPass Sports",9013 Tennis Channel
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-chno="9014" group-title="TVPass Sports",9014 SEC Network
+https://tvpass.org/live/SECNetwork/sd
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-chno="9015" group-title="TVPass Sports",9015 ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-chno="9016" group-title="TVPass Sports",9016 Big Ten Network
+https://tvpass.org/live/BigTenNetwork/sd
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-chno="9017" group-title="TVPass Sports",9017 TUDN
+https://tvpass.org/live/TUDN/sd
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-chno="9018" group-title="TVPass Sports",9018 Fox Deportes
+https://tvpass.org/live/FoxDeportes/sd
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-chno="9019" group-title="TVPass Sports",9019 ESPN Deportes
+https://tvpass.org/live/ESPNDeportes/sd
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-chno="9020" group-title="TVPass Sports",9020 beIN Sports
+https://tvpass.org/live/beINSportsUSA/sd
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sportsman Channel" tvg-chno="9022" group-title="TVPass Sports",9022 Sportsman Channel
+https://tvpass.org/live/SportsmanChannel/sd
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-chno="9023" group-title="TVPass Sports",9023 Outdoor Channel
+https://tvpass.org/live/OutdoorChannel/sd
+#EXTINF:-1 tvg-id="WillowTV.us" tvg-name="Willow TV" tvg-chno="9026" group-title="TVPass Sports",9026 Willow TV
+https://tvpass.org/live/WillowTV/sd
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-name="MAVTV" tvg-chno="9027" group-title="TVPass Sports",9027 MAVTV
+https://tvpass.org/live/MAVTV/sd
+#EXTINF:-1 tvg-id="FightNetwork.us" tvg-name="Fight Network" tvg-chno="9028" group-title="TVPass Sports",9028 Fight Network
+https://tvpass.org/live/FightNetwork/sd
+# --- END TVPASS SPORTS CHANNELS ADDED ---
 #EXTINF:-1 tvg-id="WPMTDT1.us" tvg-name="FOX (WPMT) York, PA" tvg-chno="2" group-title="Xfinity Harrisburg PA",2 FOX WPMT 43 York
 https://tvpass.org/live/WPMTDT1/sd
 #EXTINF:-1 tvg-id="KYWDT1.us" tvg-name="CBS (KYW) Philadelphia, PA" tvg-chno="3" group-title="Xfinity Harrisburg PA",3 CBS KYW 3 Philadelphia HD
